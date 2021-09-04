@@ -1,2 +1,0 @@
-# zdanie
-strona do ćwiczeń
